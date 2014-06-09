@@ -5,7 +5,7 @@ public:
 		{
 			return 0;
 		}
-		
+			
 		int allMax = 0,
 			currMax = 0,
 			currMin = prices.at(0);
